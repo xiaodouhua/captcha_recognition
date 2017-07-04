@@ -1,9 +1,8 @@
-.idea
-dataset
-pic_4
-pic_4_binary
-pic_gray
-pic_sep
+dataset/
+pic_4/
+pic_4_binary/
+pic_gray/
+pic_sep/
 clf.model
 pca.model
 .idea/
